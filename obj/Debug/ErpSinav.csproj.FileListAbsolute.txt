@@ -1,0 +1,15 @@
+C:\Users\hhc_\source\repos\ErpSinav\ErpSinav\bin\Debug\ErpSinav.exe.config
+C:\Users\hhc_\source\repos\ErpSinav\ErpSinav\bin\Debug\ErpSinav.exe
+C:\Users\hhc_\source\repos\ErpSinav\ErpSinav\bin\Debug\ErpSinav.pdb
+C:\Users\hhc_\source\repos\ErpSinav\ErpSinav\bin\Debug\EntityFramework.dll
+C:\Users\hhc_\source\repos\ErpSinav\ErpSinav\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hhc_\source\repos\ErpSinav\ErpSinav\bin\Debug\EntityFramework.xml
+C:\Users\hhc_\source\repos\ErpSinav\ErpSinav\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hhc_\source\repos\ErpSinav\ErpSinav\obj\Debug\ErpSinav.csproj.AssemblyReference.cache
+C:\Users\hhc_\source\repos\ErpSinav\ErpSinav\obj\Debug\ErpSinav.csproj.CoreCompileInputs.cache
+C:\Users\hhc_\source\repos\ErpSinav\ErpSinav\obj\Debug\ErpSinav.csproj.CopyComplete
+C:\Users\hhc_\source\repos\ErpSinav\ErpSinav\obj\Debug\ErpSinav.exe
+C:\Users\hhc_\source\repos\ErpSinav\ErpSinav\obj\Debug\ErpSinav.pdb
+C:\Users\hhc_\source\repos\ErpSinav\ErpSinav\obj\Debug\ErpSinav.Migrations.sinav.resources
+C:\Users\hhc_\source\repos\ErpSinav\ErpSinav\obj\Debug\ErpSinav.csproj.GenerateResource.cache
+C:\Users\hhc_\source\repos\ErpSinav\ErpSinav\obj\Debug\ErpSinav.csproj.SuggestedBindingRedirects.cache
